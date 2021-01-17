@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# F1 Stats UI Prototype
+
+## Description
+
+This repository contains experimental files for a Formula 1 statistics application.
+
+Its purpose is to determine what charting library to use, how best to utilise that library's functionality, how best to setup the full version of the project in terms of architecture, testing and file structure.
+
+It is also being used to test methods of data manipulation and compare data structures.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
